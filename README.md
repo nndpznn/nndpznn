@@ -6,7 +6,7 @@ I'm Nolan. As of right now, I'm a sophomore computer science major and business 
 
 ## My Skillset
 
-### \[!] What I'm Learning Right Now...
+### :pencil2: What I'm Learning Right Now...
 Swift, JavaScript, WebGL, GLSL\
 [![My Skills](https://skillicons.dev/icons?i=swift,js)](https://skillicons.dev)
 
