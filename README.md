@@ -4,25 +4,28 @@ I'm Nolan. I'm currently a sophomore computer science major and business minor a
 
 I'm interested in something in the neighborhood of front-end development and user experience design. But, for now, I'm busy collecting skills like Pokemon to enable me to create whatever I want! 
 
-In my spare time, I love making videos for [myself](https://www.youtube.com/@-nolan) and my school's student-run newspaper, the [Los Angeles Loyolan](https://www.laloyolan.com/users/profile/nolan%20nguyen/). I also occasionally dabble in [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), guitar-playing, singing, and I'm trying very hard to get back into reading books.
+In my spare time, I love making videos for [myself](https://www.youtube.com/@-nolan) and my school's student-run newspaper, the [Los Angeles Loyolan](https://www.laloyolan.com/users/profile/nolan%20nguyen/). I also occasionally dabble in [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), photography, guitar-playing, singing, fashion, gaming(just Destiny 2) and I'm trying very hard to get back into reading books.
 
 ## My Skillset
 
 ### :pencil2: What I'm Learning Right Now...
 Swift, JavaScript, WebGL, GLSL\
-[![My Skills](https://skillicons.dev/icons?i=swift,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,js,threejs)](https://skillicons.dev)
 
-### :grin: Competent!
+### :grin: Skills I'm Competent With!
 Python\
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-### :slightly_smiling_face: Familiar.
+### :slightly_smiling_face: Skills I'm Familiar With.
 Java\
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-### :relieved: Acquainted...
+### :relieved: Skills I've been Acquainted With...
 HTML, CSS, C, nasm\
 [![My Skills](https://skillicons.dev/icons?i=html,css,c)](https://skillicons.dev)
+
+### Some Other Skills Include:
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,ableton,figma,ps)](https://skillicons.dev)
 
 
 <!--
