@@ -10,15 +10,15 @@ I'm Nolan. As of right now, I'm a sophomore computer science major and business 
 Swift, JavaScript, WebGL, GLSL\
 [![My Skills](https://skillicons.dev/icons?i=swift,js)](https://skillicons.dev)
 
-### Competent!
+### :grin: Competent!
 Python\
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-### Familiar.
+### :slightly_smiling_face: Familiar.
 Java\
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-### Acquainted...
+### :relieved: Acquainted...
 HTML, CSS, C, nasm\
 [![My Skills](https://skillicons.dev/icons?i=html,css,c)](https://skillicons.dev)
 
