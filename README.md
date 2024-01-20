@@ -11,15 +11,15 @@ Swift, JavaScript, WebGL, GLSL\
 [![My Skills](https://skillicons.dev/icons?i=swift,js)](https://skillicons.dev)
 
 ### Competent!
-Python
+Python\
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ### Familiar.
-Java
+Java\
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ### Acquainted...
-HTML, CSS, C, nasm
+HTML, CSS, C, nasm\
 [![My Skills](https://skillicons.dev/icons?i=html,css,c)](https://skillicons.dev)
 
 
