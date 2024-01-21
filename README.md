@@ -8,23 +8,23 @@ In my spare time, I love making videos for [myself](https://www.youtube.com/@-no
 
 ## My Skillset
 
-### :pencil2: What I'm Learning Right Now...
+### :pencil2: What I'm learning right now...
 Swift, JavaScript, WebGL, GLSL\
 [![My Skills](https://skillicons.dev/icons?i=swift,js,threejs)](https://skillicons.dev)
 
-### :grin: Skills I'm Competent With!
+### :grin: Skills I'm competent with!
 Python\
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
-### :slightly_smiling_face: Skills I'm Familiar With.
+### :slightly_smiling_face: Skills I'm familiar with.
 Java\
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-### :relieved: Skills I've been Acquainted With...
+### :relieved: Skills I've been acquainted with...
 HTML, CSS, C, nasm\
 [![My Skills](https://skillicons.dev/icons?i=html,css,c)](https://skillicons.dev)
 
-### Some Other Skills Include:
+### Some other skills include:
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,ableton,figma,ps)](https://skillicons.dev)
 
 
