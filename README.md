@@ -6,6 +6,8 @@ I'm interested in something in the neighborhood of front-end development and use
 
 In my spare time, I love making videos for [myself](https://www.youtube.com/@-nolan) and my school's student-run newspaper, the [Los Angeles Loyolan](https://www.laloyolan.com/users/profile/nolan%20nguyen/). I also occasionally dabble in [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), photography, guitar-playing, singing, fashion, gaming(just Destiny 2) and I'm trying very hard to get back into reading books.
 
+Wanna see more? Check out my (work-in-progress)personal site [here.](https://nndpznn.github.io/)
+
 ## My Skillset
 
 ### :pencil2: What I'm learning right now...
