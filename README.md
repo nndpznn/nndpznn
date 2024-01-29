@@ -11,7 +11,7 @@ Wanna see more? Check out my (work-in-progress)personal site [here.](https://nnd
 ## My Skillset
 
 ### :pencil2: What I'm learning right now...
-Swift, JavaScript, WebGL, GLSL\
+Swift, JavaScript, WebGL & GLSL\
 [![My Skills](https://skillicons.dev/icons?i=swift,js,threejs)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
@@ -19,15 +19,15 @@ Python\
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ### :slightly_smiling_face: Skills I'm familiar with.
-Java\
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+HTML, CSS\
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 ### :relieved: Skills I've been acquainted with...
-HTML, CSS, C, nasm\
-[![My Skills](https://skillicons.dev/icons?i=html,css,c)](https://skillicons.dev)
+C, Java, nasm\
+[![My Skills](https://skillicons.dev/icons?i=c,java)](https://skillicons.dev)
 
 ### Some other skills include:
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,ableton,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,ps,ableton)](https://skillicons.dev)
 
 <!--
 **nndpznn/nndpznn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
