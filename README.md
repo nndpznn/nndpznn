@@ -9,7 +9,7 @@ In my spare time, I love making videos for [myself](https://www.youtube.com/@-no
 Wanna see more? Check out my (work-in-progress)personal site [here.](https://nndpznn.github.io/)
 
 ## My Skillset
-\ Note: I have not been programming for very long(< 3 years). These levels are relative to my overall skill level.
+Note: I have not been programming for very long(< 3 years). These levels are relative to my overall skill level.
 
 ### :pencil2: What I'm learning right now...
 Swift, JavaScript, Discord.js, Node.js, Postman, ThreeJS, MatLab, React \
