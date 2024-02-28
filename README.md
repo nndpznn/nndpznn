@@ -11,8 +11,8 @@ Wanna see more? Check out my (work-in-progress)personal site [here.](https://nnd
 ## My Skillset
 
 ### :pencil2: What I'm learning right now...
-Swift, JavaScript, Discord.js, Node.js, Postman, ThreeJS(WebGL) \
-[![My Skills](https://skillicons.dev/icons?i=swift,js,bots,nodejs,postman,threejs)](https://skillicons.dev)
+Swift, JavaScript, Discord.js, Node.js, Postman, ThreeJS, MatLab, React \
+[![My Skills](https://skillicons.dev/icons?i=swift,js,bots,nodejs,postman,threejs,matlab,react)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
 Python\
