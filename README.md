@@ -12,8 +12,8 @@ Wanna see more? Check out my (work-in-progress)personal site [here.](https://nnd
 Note: I have not been programming for very long(< 3 years). These levels are relative to my overall skill level.
 
 ### :pencil2: What I'm learning right now...
-Swift, JavaScript, Discord.js, Node.js, React, Vite \
-[![My Skills](https://skillicons.dev/icons?i=swift,js,bots,nodejs,react,vite)](https://skillicons.dev)
+Swift, JavaScript, Discord.js, Node.js, React, Vite, Firebase \
+[![My Skills](https://skillicons.dev/icons?i=swift,js,bots,nodejs,react,vite,firebase)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
 Python\
