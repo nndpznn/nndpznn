@@ -1,6 +1,6 @@
 # Hello hello!
 
-I'm Nolan. I'm currently a sophomore computer science major and business minor at Loyola Marymount University in Los Angeles. 
+I'm Nolan. I'm currently an incoming junior computer science major and business minor at Loyola Marymount University in Los Angeles. 
 
 So far, I'm interested front-end development and user experience design, but I'm leaving the door open for other fields and parts of the CompSci world. For now, I'm working on collecting skills to enable me to create whatever I want. 
 
