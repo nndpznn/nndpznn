@@ -12,23 +12,23 @@ Wanna see more? Check out my (work-in-progress)personal site [here.](https://nnd
 Note: I have not been programming for very long(< 3 years). These levels are relative to my overall skill level.
 
 ### :pencil2: What I'm learning right now...
-Swift, JavaScript, Discord.js, Node.js, React, Vite, Firebase \
-[![My Skills](https://skillicons.dev/icons?i=swift,js,bots,nodejs,react,vite,firebase)](https://skillicons.dev)
+PyTorch\
+[![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
-Python\
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+Python, JavaScript, Swift\
+[![My Skills](https://skillicons.dev/icons?i=py,js,swift)](https://skillicons.dev)
 
 ### :slightly_smiling_face: Skills I'm familiar with.
-HTML, CSS\
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+HTML, CSS, Vite, Firebase\
+[![My Skills](https://skillicons.dev/icons?i=html,css,vite,firebase)](https://skillicons.dev)
 
 ### :relieved: Skills I've been acquainted with...
-React, ThreeJS, C, Java\
-[![My Skills](https://skillicons.dev/icons?i=react,threejs,c,java)](https://skillicons.dev)
+C, Java, React, ThreeJS, Node.js, Discord.js\
+[![My Skills](https://skillicons.dev/icons?i=c,java,react,threejs,nodejs,bots)](https://skillicons.dev)
 
 ### Some other skills include:
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,ps,ableton,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,ps,ableton,postman,replit)](https://skillicons.dev)
 
 <!--
 **nndpznn/nndpznn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
