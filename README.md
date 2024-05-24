@@ -12,8 +12,8 @@ Wanna see more? Check out my (work-in-progress)personal site [here.](https://nnd
 Note: I have not been programming for very long(< 3 years). These levels are relative to my overall skill level.
 
 ### :pencil2: What I'm learning right now...
-PyTorch\
-[![My Skills](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
+React, NextJS, Supabase, Node, ExpressJS, TypeScript, MaterialUI, PyTorch\
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,nodejs,express,materialui,ts,pytorch)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
 Python, JavaScript, Swift\
@@ -24,8 +24,8 @@ HTML, CSS, Vite, Firebase\
 [![My Skills](https://skillicons.dev/icons?i=html,css,vite,firebase)](https://skillicons.dev)
 
 ### :relieved: Skills I've been acquainted with...
-C, Java, React, ThreeJS, Node.js, Discord.js\
-[![My Skills](https://skillicons.dev/icons?i=c,java,react,threejs,nodejs,bots)](https://skillicons.dev)
+C, Java, React, ThreeJS, Discord.js\
+[![My Skills](https://skillicons.dev/icons?i=c,java,react,threejs,bots)](https://skillicons.dev)
 
 ### Some other skills include:
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,ps,ableton,postman,replit)](https://skillicons.dev)
