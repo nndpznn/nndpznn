@@ -13,7 +13,7 @@ Note: I have not been programming for very long(< 3 years). These levels are rel
 
 ### :pencil2: What I'm learning right now...
 React, NextJS, Supabase, Node, ExpressJS, TypeScript, MaterialUI, PyTorch\
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,nodejs,express,materialui,ts,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,nodejs,express,ts,materialui,pytorch)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
 Python, JavaScript, Swift\
