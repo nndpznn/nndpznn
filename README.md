@@ -4,12 +4,11 @@ I'm Nolan. I'm currently an incoming junior computer science major and business 
 
 So far, I'm interested front-end development and user experience design, but I'm leaving the door open for other fields and parts of the CompSci world. For now, I'm working on collecting skills to enable me to create whatever I want. 
 
-In my spare time, I love making videos for [myself](https://www.youtube.com/@-nolan) and my school's student-run newspaper, the [Los Angeles Loyolan](https://www.laloyolan.com/users/profile/nolan%20nguyen/). I also occasionally dabble in [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), photography, guitar-playing, singing, fashion, gaming(just Destiny 2) and I'm trying very hard to get back into reading books.
+In my spare time, my creative outlet of choice is making [videos](https://www.youtube.com/@-nolan). I also occasionally dabble in [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), photography, guitar-playing, singing, fashion, gaming(just Destiny 2) and I'm trying very hard to get back into reading books.
 
 Wanna see more? Check out my (work-in-progress)personal site [here.](https://nndpznn.github.io/)
 
 ## My Skillset
-Note: I have not been programming for very long(< 3 years). These levels are relative to my overall skill level.
 
 ### :pencil2: What I'm learning right now...
 React, NextJS, Supabase, Node, ExpressJS, TypeScript, MaterialUI, PyTorch\
