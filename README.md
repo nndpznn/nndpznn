@@ -2,7 +2,7 @@
 
 I'm Nolan. I'm currently an incoming junior computer science major and business minor at Loyola Marymount University in Los Angeles. 
 
-So far, I'm interested front-end development and user experience design, but I'm leaving the door open for other fields and parts of the CompSci world. For now, I'm working on collecting skills to enable me to create whatever I want. 
+So far, I'm interested in front-end web development and user experience design, but I'm leaving the door open for other parts of the CompSci world. For now, I'm working on collecting skills to expand my abilities and get involved in all the steps of developing. 
 
 In my spare time, my creative outlet of choice is making [videos](https://www.youtube.com/@-nolan). I also occasionally dabble in [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), photography, guitar-playing, singing, fashion, gaming(just Destiny 2) and I'm trying very hard to get back into reading books.
 
