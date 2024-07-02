@@ -11,8 +11,8 @@ Wanna see more? Check out my (work-in-progress)personal site [here.](https://nnd
 ## My Skillset
 
 ### :pencil2: What I'm learning right now...
-React, NextJS, Supabase, Node, ExpressJS, TypeScript, MaterialUI, PyTorch\
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,nodejs,express,ts,materialui,pytorch)](https://skillicons.dev)
+React, NextJS, Supabase, Node, TypeScript, MaterialUI\
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,nodejs,ts,materialui)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
 Python, JavaScript, Swift\
