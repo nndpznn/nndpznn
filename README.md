@@ -1,6 +1,6 @@
 # Hello hello!
 
-I'm Nolan. I'm currently an incoming junior computer science major and business minor at Loyola Marymount University in Los Angeles. 
+I'm Nolan. I'm a junior computer science major and business minor at Loyola Marymount University in Los Angeles(actually, as of Fall 2024, I'm studying abroad at Sogang University in South Korea!).
 
 So far, I'm interested in front-end web development and user experience design, but I'm leaving the door open for other parts of the CompSci world. For now, I'm working on collecting skills to expand my abilities and get involved in all the steps of developing. 
 
@@ -15,19 +15,19 @@ React, NextJS, Supabase, Node, TypeScript, MaterialUI\
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,nodejs,ts,materialui)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
-Python, JavaScript, Swift\
-[![My Skills](https://skillicons.dev/icons?i=py,js,swift)](https://skillicons.dev)
+Python, JavaScript, Swift, HTML, CSS\
+[![My Skills](https://skillicons.dev/icons?i=py,js,swift,html,css)](https://skillicons.dev)
 
 ### :slightly_smiling_face: Skills I'm familiar with.
-HTML, CSS, Vite, Firebase\
-[![My Skills](https://skillicons.dev/icons?i=html,css,vite,firebase)](https://skillicons.dev)
+TypeScript, React, NextJS, Node, Supabase, MaterialUI\
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,supabase,materialui)](https://skillicons.dev)
 
 ### :relieved: Skills I've been acquainted with...
-C, Java, React, ThreeJS, Discord.js\
-[![My Skills](https://skillicons.dev/icons?i=c,java,react,threejs,bots)](https://skillicons.dev)
+Firebase, C, Java, ThreeJS, Discord.js\
+[![My Skills](https://skillicons.dev/icons?i=firebase,c,java,threejs,bots)](https://skillicons.dev)
 
 ### Some other skills include:
-[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,ps,ableton,postman,replit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,figma,ps,ableton,postman)](https://skillicons.dev)
 
 <!--
 **nndpznn/nndpznn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
