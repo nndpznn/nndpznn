@@ -15,7 +15,7 @@ React, NextJS, Supabase, Node, TypeScript, MaterialUI\
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,nodejs,ts,materialui)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
-Python, JavaScript, TypeScript, React, NextJS, Swift, HTML, CSS, MaterialUI\
+Python, JavaScript(+TS), React, NextJS, Swift, HTML, CSS, MaterialUI\
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,swift,html,css,materialui)](https://skillicons.dev)
 
 ### :slightly_smiling_face: Skills I'm familiar with.
@@ -23,7 +23,7 @@ Node, Supabase, Firebase\
 [![My Skills](https://skillicons.dev/icons?i=nodejs,supabase,firebase)](https://skillicons.dev)
 
 ### :relieved: Skills I've been acquainted with...
-Firebase, C, Java, ThreeJS, Discord.js\
+C, Java, ThreeJS, Discord.js\
 [![My Skills](https://skillicons.dev/icons?i=c,java,threejs,bots)](https://skillicons.dev)
 
 ### Some other skills include:
