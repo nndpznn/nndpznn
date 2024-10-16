@@ -8,6 +8,8 @@ In my spare time, my creative outlet of choice is making [videos](https://www.yo
 
 Wanna see more? Check out my (work-in-progress)personal site [here.](https://nndpznn.github.io/)
 
+![](https://komarev.com/ghpvc/?username=nndpznn&color=102BEF)
+
 ## My Skillset
 
 ### :pencil2: What I'm learning right now...
