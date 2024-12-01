@@ -13,8 +13,10 @@ Wanna see more? Check out my (work-in-progress)personal site [here.](https://nnd
 ## My Skillset
 
 ### :pencil2: What I'm learning right now...
-React, NextJS, Supabase, Node, TypeScript, MaterialUI\
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,nodejs,ts,materialui)](https://skillicons.dev)
+Building CultClassic(neural network-based recommender system) - PyTorch, Scikit-learn\
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)](https://skillicons.dev)
+Building viDoc(web app) - React, NextJS, Supabase, TypeScript, MaterialUI\
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,ts,materialui)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
 Python, JavaScript(+TS), React, NextJS, Swift, HTML, CSS, MaterialUI\
