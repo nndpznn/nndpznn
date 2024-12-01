@@ -15,6 +15,7 @@ Wanna see more? Check out my (work-in-progress)personal site [here.](https://nnd
 ### :pencil2: What I'm learning right now...
 Building CultClassic(neural network-based recommender system) - PyTorch, Scikit-learn\
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)](https://skillicons.dev)
+
 Building viDoc(web app) - React, NextJS, Supabase, TypeScript, MaterialUI\
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,ts,materialui)](https://skillicons.dev)
 
