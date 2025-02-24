@@ -1,6 +1,6 @@
 # Hello hello!
 
-I'm Nolan. I'm a junior computer science major and business minor at Loyola Marymount University in Los Angeles(actually, as of Fall 2024, I'm studying abroad at Sogang University in South Korea!).
+I'm Nolan. I'm a junior computer science major and business minor at Loyola Marymount University in Los Angeles, hailing from the SF Bay.
 
 My primary goal right now is to become a self-sufficient, full-stack programmer to be able to completely build out all my ideas to my heart's content. To that end, I'm doing frontend work in React and NextJS(with TypeScript), with my backend powered by Supabase, for [viDoc](https://github.com/nndpznn/viDoc), a brainstorming & organization platform made for amateur videographers, by an amateur videographer. I've also done work in Swift and Firebase, a basic example being my [SpaceNews](https://github.com/nndpznn/SpaceNewsClone) project. 
 
