@@ -3,11 +3,13 @@
 ***[PSST: Check my stars to find the projects I'm proudest of!!]***
 
 
-I'm Nolan. I'm a senior computer science major and business minor at Loyola Marymount University in Los Angeles, hailing from the SF Bay.
+I'm Nolan. I'm a senior computer science major and business minor at Loyola Marymount University in Los Angeles, hailing from the SF Bay. I graduate in May so I'm on the lookout for software engineer opportunities starting summer or fall 2026! 
 
-My primary goal right now is to become a self-sufficient, full-stack programmer to be able to completely build out all my ideas to my heart's content. To that end, I'm doing frontend work in React and NextJS(with TypeScript), with my backend powered by Supabase, for [viDoc](https://github.com/nndpznn/viDoc), a brainstorming & organization platform made for amateur videographers, by an amateur videographer. I've also done work in Swift and Firebase, a basic example being my [SpaceNews](https://github.com/nndpznn/SpaceNewsClone) project. 
+Most recently, my internship at AWS [this past summer](https://lnkd.in/p/gsUnkYyn) introduced me to LLM-based agentic engineering, where I created an agent to investigate CloudWatch logs and identify the root cause of a given ongoing issue. I really believe agentic is the future of AI - assistants that can not only recommend actions but execute them for you, allowing us to focus on the more important parts of our work. 
 
-In my spare time, my creative outlet of choice is making [videos](https://www.youtube.com/@-nolan). I also occasionally dabble in photography, fashion, [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), guitar-playing, singing, gaming(just Destiny 2) and I'm trying very hard to get back into reading books.
+Outside of work, a large proportion of my work has been in fullstack web dev. I've also spent time with mobile dev and neural network recommender systems. 
+
+In my spare time, my creative outlet of choice is making [videos](https://www.youtube.com/@nolndn). I also occasionally dabble in photography, fashion, [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), guitar-playing, singing, gaming(just Destiny 2) and I'm trying very hard to get back into reading books.
 
 Wanna see more? Check out my personal site [here.](https://nndpznn.github.io/)
 
@@ -16,11 +18,11 @@ Wanna see more? Check out my personal site [here.](https://nndpznn.github.io/)
 ## My Skillset
 
 ### :pencil2: What I'm learning right now...
-Building CultClassic(neural network-based recommender system) - PyTorch, Scikit-learn\
+Building [CultClassic](https://github.com/nndpznn/cultclassic) (neural network-based recommender system) - PyTorch, Scikit-learn\
 [![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)](https://skillicons.dev)
 
-Building viDoc(web app) - React, NextJS, Supabase, TypeScript, MaterialUI\
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,ts,materialui)](https://skillicons.dev)
+Building [blip](https://github.com/nndpznn/blip) (web app) - React, NextJS, Supabase, TypeScript, HeroUI\
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,ts)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
 Python, JavaScript(+TS), React, NextJS, Swift, HTML, CSS, MaterialUI\
