@@ -18,11 +18,11 @@ Wanna see more? Check out my personal site [here.](https://nndpznn.github.io/)
 ## My Skillset
 
 ### :pencil2: What I'm learning right now...
-Building [CultClassic](https://github.com/nndpznn/cultclassic) (neural network-based recommender system) - PyTorch, Scikit-learn\
-[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)](https://skillicons.dev)
-
 Building [blip](https://github.com/nndpznn/blip) (web app) - React, NextJS, Supabase, TypeScript, HeroUI\
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,supabase,ts)](https://skillicons.dev)
+
+Building [CultClassic](https://github.com/nndpznn/cultclassic) (neural network-based recommender system) - PyTorch, Scikit-learn\
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn)](https://skillicons.dev)
 
 ### :grin: Skills I'm competent with!
 Python, JavaScript(+TS), React, NextJS, Swift, HTML, CSS, MaterialUI\
