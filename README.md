@@ -9,7 +9,7 @@ Most recently, my internship at AWS [this past summer](https://lnkd.in/p/gsUnkYy
 
 Outside of that, I love designing and engineering user interfaces, because I believe for casual users of apps, presentation is everything. A large proportion of my work has been in fullstack web dev(mostly because I can't rely on anyone else to do my backend...). I've also spent time with mobile dev(Swift/SwiftUI) and neural network recommender systems(Pytorch). 
 
-In my spare time, my creative outlet of choice is making [videos](https://www.youtube.com/@nolndn). I also occasionally dabble in photography, fashion, [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), guitar-playing, singing, gaming(just Destiny 2) and I'm trying very hard to get back into reading books.
+In my spare time, my creative outlet of choice is making [videos](https://www.youtube.com/@nolndn). I also occasionally dabble in photography, carspotting, [cardistry](https://sabukaru.online/articles/the-last-living-niche-subculture-a-talk-with-anyone-master-of-cards), guitar-playing, singing, gaming(just Destiny 2) and I'm trying very hard to get back into reading books.
 
 Wanna see more? Check out my personal site [here.](https://nndpznn.github.io/)
 
