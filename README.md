@@ -3,7 +3,7 @@
 ***[PSST: Check my stars to find the projects I'm proudest of!!]***
 
 
-I'm Nolan. I'm a senior computer science major and business minor at Loyola Marymount University in Los Angeles, hailing from the SF Bay. I graduate in May so I'm on the lookout for software engineer opportunities starting summer or fall 2026! 
+I'm Nolan. I'm currently a Software Development Engineer at Amazon Web Services in the Bay Area. I graduated with a computer science major and business minor from Loyola Marymount University in Los Angeles.
 
 Most recently, my internship at AWS [this past summer](https://lnkd.in/p/gsUnkYyn) introduced me to LLM-based agentic engineering, where I created an agent to investigate CloudWatch logs and identify the root cause of a given ongoing issue. I really believe agentic is the future of AI - assistants that can not only recommend actions but execute them for you, allowing us to focus on the more important parts of our work. 
 
